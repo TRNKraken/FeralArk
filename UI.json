@@ -1,16 +1,16 @@
 {
-    "ServerName": "DarkTimesPVP",
+    "ServerName": "DarkTimes PVP",
     "ButtonTxt1": "Welcome",
-    "ButtonTxt2": "",
+    "ButtonTxt2": "Rules",
     "ButtonTxt3": "",
     "ButtonTxt4": "",
     "ButtonTxt5": "",
-    "LinkButtonTxt1": "WBUI",
+    "LinkButtonTxt1": "Discord",
     "LinkButtonTxt2": "",
     "LinkButtonTxt3": "",
     "LinkButtonTxt4": "",
     "LinkButtonTxt5": "",
-    "LinkButton1": "http://steamcommunity.com/sharedfiles/filedetails/?id=924619115",
+    "LinkButton1": "https://discord.gg/HX3SYVWRnZ",
     "LinkButton2": "",
     "Link1Button3": "",
     "Link2Button3": "",
@@ -44,9 +44,9 @@
     "Tab1Title1": "Welcome",
     "Tab1Title2": "",
     "Tab1Title3": "",
-    "Tab2Title1": "",
-    "Tab2Title2": "",
-    "Tab2Title3": "",
+    "Tab2Title1": "General Rules",
+    "Tab2Title2": "Raiding Rules / Defense rules",
+    "Tab2Title3": "Building Rules:",
     "Tab3Title1": "",
     "Tab3Title2": "",
     "Tab3Title3": "",
@@ -56,18 +56,26 @@
     "Tab5Title1": "",
     "Tab5Title2": "",
     "Tab5Title3": "",
-    "Tab1Text1": "This UI is unedited. Pls contact an Admin.
-
-Are you an Admin?
-Follow these steps:
-- enablecheats youradminpassword (login as admin)
-- Admin icon visible
-- Use the buttons in the bottom right corner.",
+    "Tab1Text1": "Welcome to DarkTimes PVP!
+Please read our rules by clicking on the (Rules) tab.
+If you have a problem, join our discord and get a admin to assist you.
+Have fun!!",
     "Tab1Text2": "",
     "Tab1Text3": "",
-    "Tab2Text1": "",
-    "Tab2Text2": "",
-    "Tab2Text3": "",
+    "Tab2Text1": "No open world turrets or aggressive dino's. If it is not an active fob or a base - it has to go. Clean up tour entire fob, including turrets, structures and dino's when you are done raiding. Staff shouldn't be doing it for you.",
+    "Tab2Text2": "No tunneling on saddles or open world.
+No meshing or mesh raiding
+1 FOB per tribe per map.
+No tribe teaming during raids.
+Remove unused FOBs after 48 hours.
+Bubble abuse is not allowed - Do not change bubble size while in PVP or being raided/defending. (repeatedly changing bubble radius, putting turrets in and out of the bubble, using soakers sticking out of the bubble, etc.)",
+    "Tab2Text3": "Max 3 caves per tribe per cluster.
+Max 2 non-cave bases per map per tribe.
+Ratholes and cubes count as caves.
+1 vent allowed per tribe (counts as a non-cave base).
+Floating bases are not allowed - floating structures are not allowed.
+-Excessive spam is not allowed. Keep it within render of the base entrance. At admin discretion.
+-Cliff plat stacking is NOT ALLOWED.",
     "Tab3Text1": "",
     "Tab3Text2": "",
     "Tab3Text3": "",
